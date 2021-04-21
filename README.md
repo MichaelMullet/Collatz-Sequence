@@ -4,4 +4,4 @@ This program lets a user type an integer that keeps calling `collatz()` on that 
 
 **No matter the integer, this sequence will eventually arrive at 1!**
 
-The collatz sequence is described by mathemeticians as an impossible problem, as we cannot determine whether or not every integer arrives at 1 after enough iterations.
+The collatz conjecture is described by mathemeticians as an impossible problem, as we cannot determine whether or not every integer arrives at 1 after enough iterations.
